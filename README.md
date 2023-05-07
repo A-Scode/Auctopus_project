@@ -1,4 +1,4 @@
-# Backend on DjangoRestFrameWrok 💯
+# Backend on DjangoRestFramewrok 💯
 Use following command to install required code
 > pip install -r requirements.txt
 
